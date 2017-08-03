@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CommonLib/.idea/CommonLib.iml" filepath="$PROJECT_DIR$/../CommonLib/.idea/CommonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DFspider.iml" filepath="$PROJECT_DIR$/.idea/DFspider.iml" />
+      <module fileurl="file://D:/PSpider-master/.idea/PSpider-master.iml" filepath="D:/PSpider-master/.idea/PSpider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paper/angel_spider/.idea/angel_spider.iml" filepath="$PROJECT_DIR$/../paper/angel_spider/.idea/angel_spider.iml" />
+      <module fileurl="file://I:/paper/itJuzi(1)/.idea/itJuzi(1).iml" filepath="I:/paper/itJuzi(1)/.idea/itJuzi(1).iml" />
+      <module fileurl="file://H:/itJuzi_many/.idea/itJuzi_many.iml" filepath="H:/itJuzi_many/.idea/itJuzi_many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myutil/.idea/myutil.iml" filepath="$PROJECT_DIR$/../myutil/.idea/myutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../news_recommend/.idea/news_recommend.iml" filepath="$PROJECT_DIR$/../news_recommend/.idea/news_recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../news_spider/.idea/news_spider.iml" filepath="$PROJECT_DIR$/../news_spider/.idea/news_spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paper/recommender/.idea/recommender.iml" filepath="$PROJECT_DIR$/../paper/recommender/.idea/recommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tspider/test_spder/.idea/test_spder.iml" filepath="$PROJECT_DIR$/../tspider/test_spder/.idea/test_spder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_spder/.idea/test_spder.iml" filepath="$PROJECT_DIR$/../test_spder/.idea/test_spder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../espider/.idea/tspider.iml" filepath="$PROJECT_DIR$/../espider/.idea/tspider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../util/.idea/util.iml" filepath="$PROJECT_DIR$/../util/.idea/util.iml" />
+    </modules>
+  </component>
+</project>
