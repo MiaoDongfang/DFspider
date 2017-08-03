@@ -1,4 +1,0 @@
-2017-06-28 14:22:47 *DEBUG* downloader.py [line:187]: 正在下载 http://www.baidu.com, 代理: {}
-2017-06-28 14:22:48 *DEBUG* downloader.py [line:226]: <200>下载成功  http://www.baidu.com
-2017-06-28 14:25:23 *DEBUG* downloader.py [line:187]: 正在下载 http://www.baidu.com, 代理: {}
-2017-06-28 14:25:23 *DEBUG* downloader.py [line:226]: <200>下载成功  http://www.baidu.com
